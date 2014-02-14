@@ -1,5 +1,30 @@
 {
-  "name": "AngularJS",
+  "name": "fork AngularJS",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Tolia/angular.js",
+  "authors": [
+    "tolia <toliademidov@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt",
+    "*.js",
+    "bower_components",
+    "css",
+    "docs",
+    "example",
+    "i18n",
+    "images",
+    "lib",
+    "logs",
+    "node_modules",
+    "scripts",
+    "src",
+    "test",
+    "tmp"
+  ],
+  
   "devDependencies": {
     "jquery": "1.10.2",
     "lunr.js": "0.4.0",
