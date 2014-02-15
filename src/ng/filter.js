@@ -128,6 +128,6 @@ function $FilterProvider($provide) {
   register('limitTo', limitToFilter);
   register('lowercase', lowercaseFilter);
   register('number', numberFilter);
-  register('orderBy', orderByFilter);
+//  register('orderBy', orderByFilter);
   register('uppercase', uppercaseFilter);
 }
