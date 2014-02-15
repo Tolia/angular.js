@@ -9,8 +9,8 @@ angularFiles = {
 
     'src/auto/injector.js',
 
-//    'src/ng/anchorScroll.js',
-//    'src/ng/animate.js',
+    'src/ng/anchorScroll.js',
+    'src/ng/animate.js',
     'src/ng/browser.js',
     'src/ng/cacheFactory.js',
     'src/ng/compile.js',
@@ -18,7 +18,7 @@ angularFiles = {
     'src/ng/document.js',
     'src/ng/exceptionHandler.js',
     'src/ng/http.js',
-//    'src/ng/httpBackend.js',
+    'src/ng/httpBackend.js',
     'src/ng/interpolate.js',
     'src/ng/interval.js',
     'src/ng/locale.js',
@@ -59,11 +59,11 @@ angularFiles = {
     'src/ng/directive/ngRepeat.js',
     'src/ng/directive/ngShowHide.js',
 //    'src/ng/directive/ngStyle.js',
-    'src/ng/directive/ngSwitch.js',
+//    'src/ng/directive/ngSwitch.js',
     'src/ng/directive/ngTransclude.js',
 //    'src/ng/directive/script.js',
     'src/ng/directive/select.js',
-    'src/ng/directive/style.js'
+//    'src/ng/directive/style.js'
   ],
 
   'angularLoader': [
