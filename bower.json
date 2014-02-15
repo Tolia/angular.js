@@ -24,7 +24,6 @@
     "test",
     "tmp"
   ],
-  
   "devDependencies": {
     "jquery": "1.10.2",
     "lunr.js": "0.4.0",
